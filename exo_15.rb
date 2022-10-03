@@ -11,7 +11,7 @@ input = gets.chomp.to_i
 i = 1
 # Variable block pyramide
 block = '#'
-# Varibable qui stocke un espace vide
+# Variable qui stocke un espace vide
 space = ' '
 
 # Boucle qui va créer la pyramide en fonction du nombre donné par l'utilisateur

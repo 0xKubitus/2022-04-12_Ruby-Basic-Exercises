@@ -6,12 +6,19 @@ userInput = gets.chomp.to_i
 compte = 0
 
 while userInput <= 2022
-	puts "En #{userInput}, tu avais #{compte} ans !"
+  if compte == 0
+    puts "En #{userInput}, tu es né !"
+  end
+
+  if compte == 1
+    puts "En #{userInput+1}, tu avais #{compte} an !"
+  end
+
+  if compte > 1
+    puts "En #{userInput+2}, tu avais #{compte} ans !"
 	userInput += 1
-	compte += 1
 end
 
+	compte +=1
 
-
-
-
+end
