@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ruby-Exercises
+# Ruby-Basic-Exercises
 Une série d'exercices pour découvrir la programmation en Ruby.
 
 <br/>
