@@ -27,7 +27,7 @@ etc...
 <hr/>
 <br/>
 
-# LES CONSIGNES DE THP:
+# LES CONSIGNES DE THE HACKING PROJECT:
 Pour chaque sous-partie, nous allons te demander de créer un programme, et de soit répondre à des questions, soit de le faire marcher.     
   
 # 1. Bonjour monde
